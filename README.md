@@ -41,3 +41,7 @@ To run the notebook, you will need the following Python libraries:
 
 ## Documentation
 You can find my detailed study notes and mathematical derivations in the [notes/](./notes/) folder.
+
+I have documented my learning process and the mathematical foundations of this project:
+- [Theoretical Foundations (PDF)](./notes/ch2_theory_notes.pdf): Covers MCP neurons, Perceptron learning rules, and SGD.
+- [Implementation Guide (PDF)](./notes/ch2_implementation.pdf): Detailed breakdown of the object-oriented implementation.
