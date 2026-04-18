@@ -40,8 +40,5 @@ To run the notebook, you will need the following Python libraries:
 * Raschka, S., Liu, Y., & Mirjalili, V. (2022). *Machine Learning with PyTorch and Scikit-Learn*. Packt Publishing.
 
 ## Documentation
-You can find my detailed study notes and mathematical derivations in the [notes/](./notes/) folder.
+You can find my detailed study notes and mathematical derivations in main.
 
-I have documented my learning process and the mathematical foundations of this project:
-- [Theoretical Foundations (PDF)](./notes/ch2_theory_notes.pdf): Covers MCP neurons, Perceptron learning rules, and SGD.
-- [Implementation Guide (PDF)](./notes/ch2_implementation.pdf): Detailed breakdown of the object-oriented implementation.
