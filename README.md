@@ -38,3 +38,6 @@ To run the notebook, you will need the following Python libraries:
 
 ## References
 * Raschka, S., Liu, Y., & Mirjalili, V. (2022). *Machine Learning with PyTorch and Scikit-Learn*. Packt Publishing.
+
+## Documentation
+You can find my detailed study notes and mathematical derivations in the [notes/](./notes/) folder.
